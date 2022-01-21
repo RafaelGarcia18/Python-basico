@@ -1,7 +1,7 @@
 entero = 102            # int
 decimal = 6.68          # float
 caracter = 'f'          # chr
-cadena = "Hola mundo"   # str
+cadena = "Bienvenido"   # str
 booleano = True         # bool
 
 print(entero)
